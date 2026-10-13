@@ -18,3 +18,4 @@ O projeto utiliza módulos Python separados para organizar suas funcionalidades 
 O osDEV não é um sistema operacional independente: é um programa que funciona dentro do sistema operacional hospedeiro. Seu comando `terminal` pode executar comandos reais do computador e deve ser utilizado com cuidado.
 
 Este projeto representa uma etapa de aprendizado, experimentação e desenvolvimento independente.
+https://www.mediafire.com/file/nxbu7yamgqfgti9/osDEV_1.05.zip/file
