@@ -20,4 +20,5 @@ O osDEV não é um sistema operacional independente: é um programa que funciona
 Este projeto representa uma etapa de aprendizado, experimentação e desenvolvimento independente.
 
 Sequoia v1.01 https://www.mediafire.com/file/nxbu7yamgqfgti9/osDEV_1.05.zip/file
+
 Ventura v2.00 https://www.mediafire.com/file/1f7zgci11zetv2d/osDEV+Ventura+2.0.rar/file
