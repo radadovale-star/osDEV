@@ -18,4 +18,6 @@ O projeto utiliza módulos Python separados para organizar suas funcionalidades 
 O osDEV não é um sistema operacional independente: é um programa que funciona dentro do sistema operacional hospedeiro. Seu comando `terminal` pode executar comandos reais do computador e deve ser utilizado com cuidado.
 
 Este projeto representa uma etapa de aprendizado, experimentação e desenvolvimento independente.
-https://www.mediafire.com/file/nxbu7yamgqfgti9/osDEV_1.05.zip/file
+
+Sequoia v1.01 https://www.mediafire.com/file/nxbu7yamgqfgti9/osDEV_1.05.zip/file
+Ventura v2.00 https://www.mediafire.com/file/1f7zgci11zetv2d/osDEV+Ventura+2.0.rar/file
