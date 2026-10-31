@@ -24,3 +24,5 @@ Sequoia v1.01 https://www.mediafire.com/file/nxbu7yamgqfgti9/osDEV_1.05.zip/file
 Ventura v2.00 https://www.mediafire.com/file/1f7zgci11zetv2d/osDEV+Ventura+2.0.rar/file
 
 Sequoia PRO v3.5 https://www.mediafire.com/file/5qh3gjnnd30pkb0/osDEV+Sequoia+Pro+v3.5.zip/file
+
+Mobile PRO https://www.mediafire.com/file/2x3blza1ag2gh73/osDEV.zip/file
