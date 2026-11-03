@@ -26,3 +26,5 @@ Ventura v2.00 https://www.mediafire.com/file/1f7zgci11zetv2d/osDEV+Ventura+2.0.r
 Sequoia PRO v3.5 https://www.mediafire.com/file/5qh3gjnnd30pkb0/osDEV+Sequoia+Pro+v3.5.zip/file
 
 Mobile PRO https://www.mediafire.com/file/2x3blza1ag2gh73/osDEV.zip/file
+
+https://www.mediafire.com/file/8yc2vv9wwjk5ejf/Nova_pasta_%25282%2529.zip/file
