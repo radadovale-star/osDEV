@@ -1,2 +1,0 @@
-# mude aqui!
-user = "Rada"
